@@ -1,0 +1,12 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="200" fill="#f0f0f0"/>
+<rect x="20" y="30" width="360" height="140" fill="#ffffff" rx="12"/>
+<rect x="40" y="50" width="320" height="100" fill="#eeeeee" rx="8"/>
+<rect x="60" y="70" width="280" height="60" fill="#222222" rx="4"/>
+<rect x="80" y="85" width="240" height="30" fill="#444444" rx="2"/>
+<rect x="100" y="92" width="200" height="16" fill="#666666"/>
+<rect x="120" y="96" width="160" height="8" fill="#888888"/>
+<circle cx="340" cy="60" r="8" fill="#10b981"/>
+<circle cx="340" cy="80" r="8" fill="#ef4444"/>
+<text x="200" y="185" font-family="Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">Energy Efficient Indoor Unit</text>
+</svg>
